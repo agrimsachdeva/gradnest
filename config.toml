@@ -2,7 +2,7 @@
 baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
 title = "Apsho | App landing template"
-theme = "apsho"
+theme = "hugo-apsho"
 
 # Navigation Bar
 [[menu.main]]

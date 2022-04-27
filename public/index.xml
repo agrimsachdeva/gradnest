@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apsho | App landing template</title>
+    <link>https://apsho-hugo.netlify.app/</link>
+    <description>Recent content on Apsho | App landing template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://apsho-hugo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://apsho-hugo.netlify.app/blog/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Hugo and It&#39;s future</title>
+      <link>https://apsho-hugo.netlify.app/blog/hugo-and-its-future/</link>
+      <pubDate>Mon, 07 Sep 2020 20:18:07 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/hugo-and-its-future/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>Corona and future of coders</title>
+      <link>https://apsho-hugo.netlify.app/blog/corona-and-future-of-coders/</link>
+      <pubDate>Sun, 06 Sep 2020 20:18:07 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/corona-and-future-of-coders/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>Is working from home effective?</title>
+      <link>https://apsho-hugo.netlify.app/blog/is-working-from-home-effective/</link>
+      <pubDate>Sat, 05 Sep 2020 20:18:07 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/is-working-from-home-effective/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>Know when to take break</title>
+      <link>https://apsho-hugo.netlify.app/blog/know-when-to-take-break/</link>
+      <pubDate>Fri, 04 Sep 2020 20:18:07 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/know-when-to-take-break/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>Future of cloud computing</title>
+      <link>https://apsho-hugo.netlify.app/blog/future-of-cloud-computing/</link>
+      <pubDate>Thu, 03 Sep 2020 20:18:07 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/future-of-cloud-computing/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>How solve coding problem</title>
+      <link>https://apsho-hugo.netlify.app/blog/how-solve-coding-problem/</link>
+      <pubDate>Thu, 03 Sep 2020 20:18:07 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/how-solve-coding-problem/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>Freelancing and corona</title>
+      <link>https://apsho-hugo.netlify.app/blog/freelancing-and-corona/</link>
+      <pubDate>Wed, 02 Sep 2020 20:18:07 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/freelancing-and-corona/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Our 2016 Roadmap</title>
+      <link>https://apsho-hugo.netlify.app/blog/announcing-our-2016-roadmap/</link>
+      <pubDate>Tue, 01 Sep 2020 20:18:07 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/announcing-our-2016-roadmap/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Our 2019 Roadmap</title>
+      <link>https://apsho-hugo.netlify.app/blog/announcing-our-2019-roadmap/</link>
+      <pubDate>Tue, 01 Sep 2020 12:59:58 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/announcing-our-2019-roadmap/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>A New Year, A New Website. Introducing Apsho 1.2</title>
+      <link>https://apsho-hugo.netlify.app/blog/a-new-year-a-new-website-introducing-apsho-1/</link>
+      <pubDate>Tue, 01 Sep 2020 12:57:56 +0600</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/blog/a-new-year-a-new-website-introducing-apsho-1/</guid>
+      <description>A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.</description>
+    </item>
+    
+    <item>
+      <title>Privacy &amp; Policy</title>
+      <link>https://apsho-hugo.netlify.app/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apsho-hugo.netlify.app/privacy/</guid>
+      <description>It is apsho’s policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to apsho.com (hereinafter, “us”, “we”, or “apsho.com”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties.</description>
+    </item>
+    
+  </channel>
+</rss>

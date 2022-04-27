@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8" />
+  <title>Hello R Markdown</title>
+
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <!-- Themify -->
+  <link rel="stylesheet" href="https://apsho-hugo.netlify.app/themify/themify.css">
+
+  <!-- Critical CSS -->
+  
+  <link href="https://apsho-hugo.netlify.app/scss/critical.min.css" rel="stylesheet" />
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://apsho-hugo.netlify.app/images/favicon.png" type="image/x-icon" />
+  <link rel="icon" href="https://apsho-hugo.netlify.app/images/favicon.png" type="image/x-icon" />
+  
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175025671-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-175025671-2');
+  </script>
+	
+</head>
+
+  <body>
+    <nav class="main-nav navbar navbar-expand-lg">
+  <div class="container-fluid">
+    <!-- Logo -->
+    <a class="navbar-brand" href="https://apsho-hugo.netlify.app/">
+      <img
+        class="logo-main"
+        src="https://apsho-hugo.netlify.app/images/logo.png"
+        alt="logo-white"
+      />
+    </a>
+    <!-- Toogle Button -->
+    <button
+      class="navbar-toggler collapsed"
+      type="button"
+      data-toggle="collapse"
+      data-target="#mainNav"
+    >
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <div class="collapse navbar-collapse nav-list" id="mainNav">
+      <!-- Navigation Links -->
+      
+      
+      <ul class="navbar-nav ml-auto">
+      
+        <li class="nav-item">
+          <a href="https://apsho-hugo.netlify.app/#hero" class="nav-link ">Home</a>
+        </li>
+      
+        <li class="nav-item">
+          <a href="https://apsho-hugo.netlify.app/#feature" class="nav-link ">About</a>
+        </li>
+      
+        <li class="nav-item">
+          <a href="https://apsho-hugo.netlify.app/#faq" class="nav-link ">Services</a>
+        </li>
+      
+        <li class="nav-item">
+          <a href="https://apsho-hugo.netlify.app/#blog" class="nav-link ">Blog</a>
+        </li>
+      
+      </ul>
+      <div class="account-list list-inline">
+        <li class="list-inline-item">
+          <a href="https://apsho-hugo.netlify.app/contact" class="btn btn-sm btn-violate">
+            Get in touch
+          </a>
+        </li>
+      </div>
+    </div>
+  </div>
+</nav>
+
+    <div id="content">
+      
+
+<section class="page-header blog-single-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h2>
+          Hello R Markdown
+        </h2>
+        <div class="post-meta">
+          <ul>
+            <li>
+              <img src="https://apsho-hugo.netlify.app/" alt="author-thumb" />
+            </li>
+            <li>
+              <h5>
+                Frida Gomam
+              </h5>
+            </li>
+            <li>
+              December 1, 2020
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="blog-single">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <article class="blog-single-post">
+          
+
+
+<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span style="display:block;" id="fig:pie"></span>
+<img src="https://apsho-hugo.netlify.app/blog/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
+
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+    </div>
+    <footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="footer-subscribe-title">
+          <h2>Get the latest app updates</h2>
+        </div>
+      </div>
+      <div class="col-lg-8 mx-auto">
+        <form action="#" class="footer-subscribe-form">
+          <div class="from-group">
+            <div class="input-group">
+              <input type="email" class="form-control" placeholder="Enter Your E-mail">
+              <div class="subscribe">
+                <button class="btn btn-subscribe" type="submit">
+                  <span class="btn-area">
+                    Subscribe
+                  </span>
+                  <svg class="icon-left" xmlns="http://www.w3.org/2000/svg" width="16.317" height="15.323"
+                    viewBox="0 0 16.317 15.323">
+                    <g data-name="Group 1167">
+                      <g data-name="Group 1166">
+                        <path data-name="Path 1349"
+                          d="M.004 5.359a.7.7 0 00.587.693l6.091 1.609L.591 9.27a.7.7 0 00-.587.693v4.656a.7.7 0 00.206.5.726.726 0 00.119.1.7.7 0 00.675.044l14.911-6.958a.7.7 0 000-1.274L1.004.066a.7.7 0 00-1 .637zm13.952 2.3"
+                          fill="#fff" />
+                      </g>
+                    </g>
+                  </svg>
+                  <svg class="icon-center" xmlns="http://www.w3.org/2000/svg" width="16.317" height="15.323"
+                    viewBox="0 0 16.317 15.323">
+                    <g data-name="Group 1167">
+                      <g data-name="Group 1166">
+                        <path data-name="Path 1349"
+                          d="M.004 5.359a.7.7 0 00.587.693l6.091 1.609L.591 9.27a.7.7 0 00-.587.693v4.656a.7.7 0 00.206.5.726.726 0 00.119.1.7.7 0 00.675.044l14.911-6.958a.7.7 0 000-1.274L1.004.066a.7.7 0 00-1 .637zm13.952 2.3"
+                          fill="#fff" />
+                      </g>
+                    </g>
+                  </svg>
+                </button>
+              </div>
+
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-md-4">
+        <div class="footer-description">
+          <img src="https://apsho-hugo.netlify.app/images/logo.png" alt="logo">
+          <p>
+            All right reserved
+              </br>
+              Copyright © Apsho 2022
+          </p>
+          <ul class="footer-description-social">
+            <li>
+              <a href="https://www.facebook.com/pg/staticmania"><i class="ti-facebook"></i></a>
+            </li>
+            <li>
+              <a href="https://twitter.com/static_mania"><i class="ti-twitter-alt"></i></a>
+            </li>
+            <li>
+              <a href="https://github.com/StaticMania"><i class="ti-github"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4">
+        <div class="footer-widget">
+          <h4>Sitemap</h4>
+          <div class="footer-widget-list">
+            <ul>
+              
+                
+                  <li><a href="https://apsho-hugo.netlify.app/">Home</a></li>
+              
+                  <li><a href="https://apsho-hugo.netlify.app/blog">Latest Article</a></li>
+              
+                  <li><a href="https://apsho-hugo.netlify.app/privacy">Privacy &amp; Policy</a></li>
+              
+                  <li><a href="https://apsho-hugo.netlify.app/contact">Contact</a></li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4">
+        <div class="footer-widget">
+          <h4>Address</h4>
+          
+          <div class="footer-widget-list">
+            <ul>
+              <li><a href="tel:&#43;%28448%29%20833%205272%20332"><i class="ti-mobile"></i>&#43;(448) 833 5272 332</a></li> 
+              <li><a href="mailto:apsho@example.com"><i class="ti-email"></i>apsho@example.com</a></li>
+              <li><p><i class="ti-pin"></i>23 Khan Niketon, Grand Street, NYK.</p></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<link href="https://apsho-hugo.netlify.app/scss/non-critical.min.css" rel="stylesheet" />
+
+<script src="https://apsho-hugo.netlify.app/js/vendor.min.js"></script>
+
+<script src="https://apsho-hugo.netlify.app/js/form-handler.min.js"></script>
+
+<script src="https://apsho-hugo.netlify.app/js/script.min.js"></script>
+  </body>
+</html>
