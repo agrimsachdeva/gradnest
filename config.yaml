@@ -1,0 +1,47 @@
+baseURL: https://apsho-hugo.netlify.app/
+languageCode: en-us
+title: Apsho | App landing template
+theme: hugo-apsho
+menu:
+  main:
+    - name: Home
+      url: '#hero'
+      weight: 1
+    - name: About
+      url: '#feature'
+      weight: 2
+    - name: Services
+      url: '#faq'
+      weight: 3
+    - name: Blog
+      url: '#blog'
+      weight: 4
+  sitemap:
+    - name: Home
+      url: '#'
+      weight: 1
+    - name: Latest Article
+      url: /blog
+      weight: 2
+    - name: Privacy & Policy
+      url: /privacy
+      weight: 3
+    - name: Contact
+      url: /contact
+      weight: 4
+params:
+  address:
+    address: 23 Khan Niketon, Grand Street, NYK.
+    email: apsho@example.com
+    phone: +(448) 833 5272 332
+  copyright1: All right reserved
+  copyright2: Copyright © Apsho {year}
+  email: help@staticmania.com
+  footerTitle: Get the latest app updates
+  formspreeURL: https://formspree.io/mknyovwz
+  googleAnalytics: UA-175025671-2
+  logo: images/logo.png
+  social:
+    facebook: https://www.facebook.com/pg/staticmania
+    github: https://github.com/StaticMania
+    twitter: https://twitter.com/static_mania
